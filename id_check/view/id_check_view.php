@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+		<script src="/js/jquery-3.6.0.js"></script>
 		<script src="/js/id_check.js"></script>
 	</head>
 	<body>

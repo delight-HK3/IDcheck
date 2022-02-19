@@ -5,6 +5,9 @@ class Id_check extends CI_Controller {
         	$this->load->database(); //DB 연결   
         	$this->load->model("id_check_m "); //model id_check_m 연결  
 	}
+	public function index(){
+		$this->load->view("id_check_view");
+	}
 	public function check_id(){
 		$uid=$this->input->post("uid",TRUE); 
 		$rerult = $this->id_check_m->searchid($uid); 

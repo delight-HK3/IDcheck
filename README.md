@@ -1,4 +1,4 @@
-# ID_check
+# IDcheck
 
 >사용한 프레임워크 : codeigniter 3 <br>
 >사용한 언어 : php5, jQuery, SQL<br>

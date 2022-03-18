@@ -1,5 +1,6 @@
 <html>
 	<head>
+		<meta charset="utf-8">
 		<script src="/js/jquery-3.6.0.js"></script>
 		<script src="/js/id_check.js"></script>
 	</head>

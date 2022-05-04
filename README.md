@@ -4,8 +4,9 @@
 >사용한 언어 : php5, jQuery, SQL<br>
 >사용한 DB : MariaDB <br>
 >사용한 DBMS : phpMyAdmin<br>
->사용한 서버 : Apache server<br>
+>사용한 서버 : Debian Linux server<br>
 >사용한 Tool : Visual Studio Code<br>
+>테스트한 OS : Debian Linux<br>
 <br>
 
 <b>제작한 목적</b> : 회원가입 기능이 있는 사이트는 대부분 ID 중복체크 기능이 있습니다, 이것을 버튼을 눌러 확인하는 방식이 아닌 실시간으로 확인하는 방식으로 하는 것이 더욱 편의성이 있겠다고 판단하여 제작해 보았습니다.

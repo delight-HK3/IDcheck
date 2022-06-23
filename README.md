@@ -1,9 +1,9 @@
 # IDcheck
 
 >사용한 프레임워크 : codeigniter 3 <br>
->사용한 언어 : php5, jQuery, SQL<br>
+>사용한 언어 : php5, jQuery<br>
 >사용한 DB : MariaDB <br>
->사용한 DBMS : phpMyAdmin<br>
+>사용한 DBMS : MySQL<br>
 >사용한 서버 : Debian Linux server<br>
 >사용한 Tool : Visual Studio Code<br>
 >테스트한 OS : Debian Linux<br>
